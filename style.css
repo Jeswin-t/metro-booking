@@ -264,7 +264,7 @@ input[type="submit"]:hover {
 a.move-top {
     width: 34px;
     height: 34px;
-    background: url(../images/move-top.png) no-repeat 0px 0px;
+    background: url(move-top.png) no-repeat 0px 0px;
     display: inline-block;
 }
 
@@ -739,21 +739,21 @@ a.reqe-button {
 }
 
 .csslider>ul>li:first-child {
-    background: linear-gradient(rgba(0,0,0,0.5),#0096),url(../images/gmetro.jpg) no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.5),#0096),url(gmetro.jpg) no-repeat center;
     background-size: cover;
 }
 
 .csslider>ul>li:nth-child(2) {
-    background:linear-gradient(rgba(0,0,0,0.5),#0096), url(../images/taxii.jpg) no-repeat top;
+    background:linear-gradient(rgba(0,0,0,0.5),#0096), url(../taxii.jpg) no-repeat top;
     background-size: cover;
 }
 
 .csslider>ul>li:last-child {
-    background: linear-gradient(rgba(0,0,0,0.5),#0096),url(../images/kk.jpg) no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.5),#0096),url(kk.jpg) no-repeat center;
     background-size: cover;
 }
 .cssglider{
-     background: url(../images/gmetro.jpg) no-repeat center;
+     background: url(gmetro.jpg) no-repeat center;
      background-size: cover;
 }
 .w3ls_banner_txt {
